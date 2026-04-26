@@ -1,6 +1,6 @@
 # VLM-Anti-hallucination
 
-Cleaned research package for the paper **M-POPE: A Multi-dimensional Hallucination Benchmark for MLLMs with Inference-time Attention Reweighting**.
+Cleaned research package for the **M-POPE**.
 
 This repository is extracted from a larger local workspace and only keeps the parts that are useful for open-source release:
 
